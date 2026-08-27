@@ -1,6 +1,5 @@
 # servidores-web-aula02
 
-# Servidores Web - Aula 02
 
 ## Nome completo
 
