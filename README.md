@@ -22,6 +22,8 @@ Nesta aula, aprendemos conceitos básicos sobre servidores web e como acontece a
 * [Exercício 1 - Criar página HTML](762492.Exerc01.html)
 * [Exercício 2 - Cliente, servidor e resposta](762492.Exerc02.html)
 * [Exercício 3 - Servidor local x servidor remoto](762492.Exerc03.html)
+* [Atividade 01 - Tipo de Servidores WEB](762492_Atividade01.html)
+* [Atividade 02 - Arquitetura de Servidores WEB](762492_Atividade02.html)
 
 ## O que aprendi sobre servidores web
 
